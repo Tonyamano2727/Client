@@ -48,7 +48,7 @@ const Blog = () => {
                     alt=""></img>
                   <div className="w-[80%] flex flex-col justify-center items-center">
                     <Link className="w-[80%] mt-2 text-[15px] font-semibold">
-                      These are the 5 best phones you can buy right now
+                      These are the 5 best phones you can buy right now thanks
                     </Link>
                     <div className="mt-2">
                       <span className="px-2">December 13, 2016</span>
